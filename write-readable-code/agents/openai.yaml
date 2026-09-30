@@ -1,0 +1,4 @@
+interface:
+  display_name: "Readable Code Style"
+  short_description: "Enforce readable, documented, small code files"
+  default_prompt: "Use $write-readable-code to implement this change with small, clearly documented files."

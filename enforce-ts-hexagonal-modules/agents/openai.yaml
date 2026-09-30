@@ -1,0 +1,4 @@
+interface:
+  display_name: "Enforce TS Hexagonal Modules"
+  short_description: "Enforce strict TypeScript module boundaries"
+  default_prompt: "Use $enforce-ts-hexagonal-modules to build or audit this TypeScript application with strict DDD ports and adapters."
